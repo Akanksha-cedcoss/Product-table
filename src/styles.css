@@ -1,0 +1,22 @@
+.container{
+   
+    width: 60%;
+    margin:2% auto auto 4%
+}
+.content{
+    margin-bottom: 3%;
+    width: 60%;
+}
+label{
+    padding-right: 4%;
+}
+#table{
+    border: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+}
+td{
+    border: 1px solid black;
+    
+}
