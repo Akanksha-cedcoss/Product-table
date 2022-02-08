@@ -16,7 +16,7 @@ label{
     border-collapse: collapse;
     background-color: blanchedalmond;
 }
-td{
+td ,th{
     border: 1px solid black;
     
 }
